@@ -1,1 +1,11 @@
 __Notes__
+
+
+react hooks
+-React.useState()
+-mostly used after destructing 
+-import React, { useState } from "react"
+its an array 
+useState("hello")
+---in console
+---("hello", f{})
